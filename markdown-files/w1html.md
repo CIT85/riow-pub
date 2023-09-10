@@ -1,7 +1,7 @@
 # Code Along Instruction for Chapter 1 to 3
 https://www.youtube.com/watch?v=mJgBOIoGihA
 
-In the video Dave will change his folder for each lesson, but for our work I will have you name the folder for the week and subject we are code along, so for this week it will w1_html (week 1 HTML).  
+In the video Dave will change his folder for each lesson, but for our work we will name the folder for the week and subject we are coding along with, so for this week it will w1_html (week 1 HTML).  
 
 ---
 ## Chapter - 1 (00:00 to 12:44)
