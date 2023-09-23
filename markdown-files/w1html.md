@@ -19,7 +19,7 @@ In the video Dave will change his folder for each lesson, but for our work we wi
 
 ## Chapter - 1  (12:44 to 19:58) 
 
-* Stop the video and code up the CSS as Dave demostrates.
+* Pause the video and code up the CSS as Dave demostrates. 
 * Walk thru the W3C validation check and update the html along with Dave and make sure your html code validates before you continue, click for validator - https://validator.w3.org/#validate_by_upload
 
 ## Chapter - 2 (19:58 to 28:52)
