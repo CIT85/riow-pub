@@ -36,7 +36,10 @@ I have also noticed that prettier is creating some issues with self closing tags
 
 ## BREAKS ARE IMPORTANT (Optional)
 
-Because you have worked hard to get to this point, I recommend you submit your github history URL and finish the last chapter tomorrow.  
+Because you have worked hard to get to this point:
+* I recommend you submit your github history URL and finish the last chapter tomorrow.  
+* This is optional and if you are feel you are able to keep focused them continue on.  
+* If you missed the first due date for this work and you are trying to use this break to get caught up, complete the entire code along work for this item and I will reduce your points by 10% and not the normal late work reduction of 25%. Reach out if you have questions about this option. 
 
 ## Chapter - 6 (1:30:33 to 2:00:33) 
 
