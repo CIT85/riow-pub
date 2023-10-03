@@ -1,7 +1,7 @@
 # Code Along Instruction for Chapter 4 to 6
 https://www.youtube.com/watch?v=mJgBOIoGihA
 
-In the video Dave will change his folder for each lesson, but for our work we will name the folder for the week and subject we are coding along with, so for this week it will w2_html (week 2 HTML).  Copy the code from w1_html into the current week. 
+In the video Dave will change his folder for each lesson, but for our work we will name the folder for the week and subject we are coding along with, so for this week it will be w2_html (week 2 HTML).  Copy the code from w1_html into the current week. 
 * **COMMIT MESSAGE - "setup for week 2 done"**
 
 ---
