@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=OXGznpKZ_sA
 
 ## Chapter - 1 (0:00 to 0:14:50)
 
-In the video Dave will change his folder for each lesson, but for our work we will name the folder for the week and subject we are coding along with, so for this week it will be w3_css (week 3 css). Code along and create the index.html and before you start the css. 
+In the video Dave will change his folder for each lesson, but for our work we will name the folder for the week and subject we are coding along with, so for this week it will be w3_css (week 3 css). Code along and create the index.html and before you start the css code along. 
 
 * **COMMIT MESSAGE - "setup for week 3 css done"**
 
