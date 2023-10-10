@@ -86,4 +86,4 @@ Because you have worked hard to get to this point:
 
 
 ## Congratations
-You have finished your second code along for our class, push your code to github and give your commit history URL for the w4_css folder to show you have completed this work. 
+You have finished your fourth code along for our class, push your code to github and give your commit history URL for the w4_css folder to show you have completed this work. 
