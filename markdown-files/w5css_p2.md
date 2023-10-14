@@ -24,13 +24,13 @@ In the video Dave will change his folder for each lesson, but for our work we wi
 
 * Code along as Dave did a mini project!  After Dave styles the nav and the h2, commit.
 
-* **COMMIT MESSAGE - "css reset, styling nav and h2"**
+* **COMMIT MESSAGE - "css rset, styling nav and h2"**
 
 * Continue to code along as Dave finishes the page and the chapter, in your CSS.md file add a new markdown heading name mini project and tell me what you learned from coding this project, commit
 
 * **COMMIT MESSAGE - "styling li for menu, intro to display block, and updated CSS.md file"**
 
-## Chapter - 10 (2:44:39 to 3:00:21)
+## Chapter - 10 (2:44:39 to 2:44:39)
 
 * I would suggest that you create a new folder and copy the ending files from the mini project, so you can have them for the future.  (optional, but recommended)
 
@@ -53,7 +53,7 @@ Because you have worked hard to get to this point:
 * This is optional and if you are feel you are able to keep focused them continue on.  
 * If you missed the first due date for this work and you are trying to use this break to get caught up, complete the entire code along work for this item and I will reduce your points by 10% and not the normal late work reduction of 25%. Reach out if you have questions about this option. 
 
-## Chapter - 11 (3:00:21 to 3:12:41)
+## Chapter - 11 (2:44:39 to 3:12:41)
 
 * Setup for this chapter and commit.
 
