@@ -82,4 +82,4 @@ Because you have worked hard to get to this point:
 * **COMMIT MESSAGE - "unicode characters, columns and nowrap"**
 
 ## Congratations
-You have finished your fourth code along for our class, push your code to github and give your commit history URL for the w5_css folder to show you have completed this work. 
+You have finished your 5th code along for our class, push your code to github and give your commit history URL for the w5_css_p1 folder to show you have completed this work. 
